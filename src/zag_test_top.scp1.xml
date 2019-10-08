@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SCP1" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <SCP1>
+    <SCPRATTR>
+     <ID>ZAG_TEST_TOP</ID>
+     <TYPE>TMP</TYPE>
+     <ORGID>/CUSTOMER/</ORGID>
+     <COMPONENT>SAP_BASIS</COMPONENT>
+     <MINRELEASE>751</MINRELEASE>
+     <MAXRELEASE>*</MAXRELEASE>
+    </SCPRATTR>
+    <SCPRTEXT>
+     <SCPRTEXT>
+      <LANGU>E</LANGU>
+      <ID>ZAG_TEST_TOP</ID>
+      <VERSION>N</VERSION>
+      <TEXT>Test</TEXT>
+     </SCPRTEXT>
+    </SCPRTEXT>
+    <SUBPROFS>
+     <SCPRPPRL>
+      <ID>ZAG_TEST_TOP</ID>
+      <VERSION>N</VERSION>
+      <SUBPROFILE>ZAG_TEST_SET</SUBPROFILE>
+      <PROF_POSIT>1</PROF_POSIT>
+     </SCPRPPRL>
+    </SUBPROFS>
+   </SCP1>
+  </asx:values>
+ </asx:abap>
+</abapGit>
